@@ -1,3 +1,4 @@
+<!--推荐页面 -->
 <template>
 	<div class="box">
 		<ul>
